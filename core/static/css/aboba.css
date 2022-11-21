@@ -1,0 +1,63 @@
+h1{
+
+    color:rgb(7, 63, 77);
+    font-size: 40px;
+    margin-left: 5%;
+
+}
+
+body{
+
+    background-color:rgb(34, 39, 44);
+
+}
+
+p{
+
+    font-size: 25px;
+
+}
+
+.menu{
+
+    background-color:rgb(71, 68, 68);
+    width: 17%;
+    height: 42%;
+    position: absolute;
+
+}
+
+.main{
+
+    width:80%;
+    margin-left: 17%;
+
+}
+
+.menu2{
+
+    margin-left: 2%;
+
+}
+
+.menu li {
+
+    color: rgb(16, 77, 146);
+    font-size: 20px;
+    width: 80%;
+    padding-left: 4px;
+    padding-right: 4px;
+
+}
+
+.menu a:hover {
+
+    color: rgb(17, 51, 78);
+
+}
+
+h2{
+
+    color: rgb(8, 83, 112);
+
+}

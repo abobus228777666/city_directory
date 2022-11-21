@@ -1,3 +1,3 @@
 # city_directory
-this is directory of cities in Russia
+This is directory of cities in Russia
 🍔🍟🍕🥩🌯
